@@ -23,6 +23,7 @@ namespace BinarySearchTree
     }
     class BinaryTree
     {
+        public Node ROOT;
         
     }
 }
