@@ -21,5 +21,8 @@ namespace BinarySearchTree
        }
 
     }
-    
+    class BinaryTree
+    {
+        
+    }
 }
