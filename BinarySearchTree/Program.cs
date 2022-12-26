@@ -24,6 +24,11 @@ namespace BinarySearchTree
     class BinaryTree
     {
         public Node ROOT;
+        public BinaryTree()
+        {
+            ROOT = null; //initializing ROOT to null
+        }
+
         
     }
 }
